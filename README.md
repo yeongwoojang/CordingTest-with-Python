@@ -1,1 +1,1 @@
-# CordingTest-with-Python
+## 교재 이것이 코딩테스트다 with 파이썬을 통해 코딩테스트 준비 시작
